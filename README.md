@@ -1,0 +1,1 @@
+Este foi o primeiro projeto em HTML que me solicitaram na universidade. Nele, tive de informar que este era meu primeiro website, adicionar curiosidades sobre mim, e adicionar uma imagem. Bem simples, mas um quebra gelo para a minha vida na área.
